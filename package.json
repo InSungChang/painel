@@ -1,0 +1,26 @@
+{
+  "name": "painel",
+  "version": "1.0.0",
+  "description": "Painel de visualização de formulários",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InSungChang/painel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InSungChang/painel/issues"
+  },
+  "homepage": "https://github.com/InSungChang/painel#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1",
+    "mysql": "^2.18.1"
+  }
+}
